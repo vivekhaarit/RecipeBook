@@ -3,17 +3,34 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
-## Steps to run the project in your local
+## Run Locally
 
-Clone this repo, hit `git clone https://github.com/vivekhaarit/RecipeBook.git` 
+Clone the project
 
-`cd folder`
+```bash
+  git clone https://link-to-project
+```
 
-`npm i` (will install all the dependencies this project needs)
+Go to the project directory
 
-`ng serve` (starts the dev server)
+```bash
+  cd my-project
+```
 
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/56324826/177021538-f989ccf8-fe59-4ff9-a52f-c57b2ada0472.png)
 

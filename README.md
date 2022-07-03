@@ -1,5 +1,9 @@
+<div align="center">
 
-# RecipeBook
+  # RecipeBook
+
+</div>
+
 <div align="center">
 
   ![](https://img.shields.io/badge/@angular-v13.3.7-blue.svg)
@@ -8,6 +12,7 @@
   ![](https://img.shields.io/static/v1?label=DevelopedBy&message=Vivek&color=blue)
 
 </div>
+
 ## How it works
 <hr>
 <p align="center">

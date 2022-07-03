@@ -9,7 +9,7 @@
   ![](https://img.shields.io/badge/@angular-v13.3.7-blue.svg)
   ![](https://img.shields.io/badge/@npm-v8.5.5-blue.svg)
   ![](https://img.shields.io/badge/commits-41-green.svg)
-  ![](https://img.shields.io/static/v1?label=DevelopedBy&message=Vivek&color=blue)
+  ![](https://img.shields.io/static/v1?label=DevelopedBy&message=Vivek&color=green)
 
 </div>
 

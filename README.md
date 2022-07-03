@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Steps to run the project in your local
 
-Clone this repo, hit `git clone url` 
+Clone this repo, hit `git clone https://github.com/vivekhaarit/RecipeBook.git` 
 
 `cd folder`
 

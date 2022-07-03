@@ -33,7 +33,7 @@ Navigate to `http://localhost:4200/`. The app will automatically reload if you c
 ## How it works
 <hr>
 <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/56324826/177022308-12b3640f-62f3-4f01-a648-3e8f0b71abfc.gif">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/56324826/177022308-12b3640f-62f3-4f01-a648-3e8f0b71abfc.gif">
 </p>
 <hr>
 

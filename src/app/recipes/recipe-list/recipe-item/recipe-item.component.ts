@@ -4,14 +4,12 @@ import { RecipeService } from '../../recipe.service';
 
 @Component({
   selector: 'app-recipe-item',
-  templateUrl: './recipe-item.component.html',
-  styleUrls: ['./recipe-item.component.css']
+  templateUrl: './recipe-item.component.html'
 })
 export class RecipeItemComponent implements OnInit {
  
-  
-  @ViewChild('recipeItem',{static:true}) recipeItem: ElementRef;
   @Input('recipe') recipe: Recipe;
+  @Input('index') index:number;
   // @Output('recipeSelected') recipeSelected= new EventEmitter<Recipe>();
   
   constructor(private recipeService: RecipeService){}

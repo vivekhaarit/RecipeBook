@@ -2,9 +2,9 @@
 # RecipeBook
 <div align=center>
 
-  <a href=>![example1](https://img.shields.io/badge/example-one-red)</a>
-  <a href=>![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href=>![example3](https://img.shields.io/badge/example-three-blue)</a>
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
 
 </div>
 ## How it works

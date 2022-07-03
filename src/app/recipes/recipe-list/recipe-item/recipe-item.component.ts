@@ -12,14 +12,14 @@ export class RecipeItemComponent implements OnInit {
   
   @ViewChild('recipeItem',{static:true}) recipeItem: ElementRef;
   @Input('recipe') recipe: Recipe;
-  @Output('recipeSelected') recipeSelected= new EventEmitter<Recipe>();
+  // @Output('recipeSelected') recipeSelected= new EventEmitter<Recipe>();
   
   constructor(private recipeService: RecipeService){}
 
   ngOnInit(): void {  }
 
-  onRecipeItemClick(){
-    this.recipeService.recipeSelected.emit(this.recipe);
-  }
+  // onRecipeItemClick(){
+  //   this.recipeService.recipeSelected.emit(this.recipe);
+  // }
 
 }

@@ -5,6 +5,7 @@ import { Recipe } from "./recipe.model";
 
 @Injectable()
 export class RecipeService{
+ 
   private recipies: Recipe[]=[
     new Recipe(
       "vivek recipe",
@@ -31,6 +32,10 @@ export class RecipeService{
 
   getRecipes(){
     return this.recipies.slice();
+  }
+
+  getRecipeById(id: number) {
+    return this.recipies[id];
   }
 
   sendRecipeIngredientsToShoppingList(ingredients:Ingredient[]){

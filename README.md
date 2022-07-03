@@ -1,10 +1,11 @@
 
 # RecipeBook
-<div align=center>
+<div align="center">
 
-  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+  ![](https://img.shields.io/badge/@angular-v13.3.7-blue.svg)
+  ![](https://img.shields.io/badge/@npm-v8.5.5-blue.svg)
+  ![](https://img.shields.io/badge/commits-41-green.svg)
+  ![](https://img.shields.io/static/v1?label=DevelopedBy&message=Vivek&color=blue)
 
 </div>
 ## How it works

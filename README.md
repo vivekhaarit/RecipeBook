@@ -13,7 +13,13 @@
 
 </div>
 
+
+<div align="center">
+
 ## How it works
+
+</div>
+
 <hr>
 <p align="center">
   <img width="700" height="400" src="https://user-images.githubusercontent.com/56324826/177022308-12b3640f-62f3-4f01-a648-3e8f0b71abfc.gif">

@@ -32,7 +32,7 @@ import { RecipeService } from './recipes/recipe.service';
     FormsModule,
     AppRoutingModule
   ],
-  providers: [ShoppingListService,RecipeService],
+  providers: [ShoppingListService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

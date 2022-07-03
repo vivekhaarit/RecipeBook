@@ -3,7 +3,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
-##Steps to run the project in your local
+## Steps to run the project in your local
 Clone this repo, hit git clone url 
 cd folder
 npm i (will install all the dependencies this project needs)

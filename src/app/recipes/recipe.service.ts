@@ -34,8 +34,6 @@ export class RecipeService{
   }
 
   sendRecipeIngredientsToShoppingList(ingredients:Ingredient[]){
-    for(let item of ingredients){
-      this.shoppingListService.addIngredient(item);
-    }
+    this.shoppingListService.addIngredients(ingredients);
   }
 }

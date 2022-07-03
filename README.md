@@ -35,9 +35,11 @@ Navigate to `http://localhost:4200/`. The app will automatically reload if you c
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/56324826/177022308-12b3640f-62f3-4f01-a648-3e8f0b71abfc.gif">
 </p>
+<hr>
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/56324826/177022308-12b3640f-62f3-4f01-a648-3e8f0b71abfc.gif/460/380">
+</p>
 
-
-![ezgif-5-90e728f3f9](https://user-images.githubusercontent.com/56324826/177022308-12b3640f-62f3-4f01-a648-3e8f0b71abfc.gif)
 
 
 

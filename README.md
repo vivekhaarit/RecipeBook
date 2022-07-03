@@ -37,6 +37,9 @@ Navigate to `http://localhost:4200/`. The app will automatically reload if you c
 </p>
 <hr>
 
+## Angular features used in this project
+
+
 
 
 

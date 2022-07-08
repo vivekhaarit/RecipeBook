@@ -58,9 +58,10 @@ Navigate to `http://localhost:4200/`.
 
 ## Angular features used in this project
 
-
-
-
+Routing and Navigation
+Forms
+Services and dependency injenction
+Observables
 
 
 
